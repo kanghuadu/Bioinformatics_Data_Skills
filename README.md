@@ -20,3 +20,11 @@ bioinformatics tools that will not go out of date is this rapidly changing
 field, if certain tools do become obsolete I will use this repository to host
 and describe alternatives.
 
+## Note (If you need)
+If you not have the book <Bioinformatics Data Skills>, you can get the links:
+```
+链接：https://pan.quark.cn/s/90bcca04063f?pwd=xCgU
+提取码：xCgU
+```
+Finally, we thanks to `Vince Buffalo` and to shared. 
+
